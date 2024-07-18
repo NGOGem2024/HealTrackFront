@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PhysioFront",
+    "slug": "PhysioFront",
+    "version": "^1.2.3",    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    
+ 
+    "android": {
+      "package": "com.anonymous.PhysioFront"
+    }
+  }
+}
+
+ 
